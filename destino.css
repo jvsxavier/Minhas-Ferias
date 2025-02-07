@@ -1,0 +1,59 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: #fff9f9;
+}
+
+header {
+    background-color: #1fc0b8;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+.destino ul {
+    list-style: none;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.destino ul li {
+    margin: 10px 0;
+}
